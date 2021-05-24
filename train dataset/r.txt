@@ -1,1 +1,2 @@
-this folder contains dataset for training
+this folder contains dataset for training<br>
+you can dowload it from kaggle or generate through code 
